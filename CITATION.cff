@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Santana
+    given-names: Kevin
+    orcid: https://orcid.org/0009-0003-8383-1212
+  - family-names: Elipot
+    given-names: Shane
+    orcid: https://orcid.org/0000-0001-6051-5426
+  - family-names: Miron
+    given-names: Philippe
+    orcid: https://orcid.org/0000-0002-8520-6221
+  - family-names: Curcic
+    given-names: Milan
+    orcid: https://orcid.org/0000-0002-8822-7749
+title: "Poster: Accelerating the use of Lagrangian data with Clouddrift"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: n/a
+date-released: 2024-07-10
